@@ -10,4 +10,7 @@ public class Section3Week1TemplateJdbcApplication {
 		SpringApplication.run(Section3Week1TemplateJdbcApplication.class, args);
 	}
 
+		//commit test 1
+
+
 }

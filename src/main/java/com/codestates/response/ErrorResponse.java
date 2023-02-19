@@ -26,6 +26,7 @@ public class ErrorResponse {
                           final List<ConstraintViolationError> violationErrors) {
         this.fieldErrors = fieldErrors;
         this.violationErrors = violationErrors;
+
     }
 
     public static ErrorResponse of(BindingResult bindingResult) {
